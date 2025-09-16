@@ -8,7 +8,7 @@ This project is a **Machine Learning-based web application** that predicts wheth
 
 - `Diabetes_prediction_using_machine_learning.ipynb` → Jupyter/Colab notebook for training the ML model  
 - `diabetes prediction web app.py` → Streamlit web application script  
-- `diabetes.csv` → Dataset used for training (Pima Indians Diabetes Dataset)  
+- `diabetes.csv` → Dataset used for training 
 - `trained_model.sav` → Saved trained XGBoost model  
 
 ---
