@@ -2,7 +2,7 @@
 """
 Created on Sat Apr 27 22:46:02 2024
 
-@author: ganes
+@author: ganesh
 """
 
 import numpy as np
@@ -73,3 +73,4 @@ def main():
 if __name__ == '__main__':
     main()
     
+
